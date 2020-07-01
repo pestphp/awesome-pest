@@ -7,13 +7,28 @@
 > A curated list of awesome things related to Pest
 
 ## Contribution
-Have you found something that makes Pest more awesome? Make a PR and add it to the list!
+Have you found something that makes Pest more awesome? Make a PR and add it to the list! Please be sure to read the [contribution guidelines] first.
 
 ## Table of Contents
 
-- [Essentials](#essentials)
+- [Plugins](#plugins)
+- [IDE](#ide)
+- [Resources](#resources)
+### Plugins
+* [Laravel Plugin](https://github.com/pestphp/pest-plugin-laravel)
+* [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
+* [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
+* [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
 
-## Essentials
+### IDE
+- [VSCode Plugin](https://github.com/m1guelpf/better-pest)
+- [Pest Intellij](https://github.com/pestphp/pest-intellij)
 
-- [Pest's website and documentation](https://pestphp.com)
-- [Pest's GitHub organisation](https://github.com/pestphp)
+### Resources
+* [Pest's documentation](https://pestphp.com)
+* [Pest's GitHub organisation](https://github.com/pestphp)
+* [Pest's Twitter](https://twitter.com/pestphp)
+* [Pest Video Course](https://youtube.com/watch?v=gTU-y6HlmzU&list=PLNXrjfSe7qHncCyQYOqJBTsTbYPotMaZ8)
+
+### Miscellaneous
+* [Alfred Workflow for Pest's docs](https://github.com/AlexMartinFR/alfred-pestphp-docs)
