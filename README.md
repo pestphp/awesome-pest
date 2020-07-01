@@ -27,5 +27,8 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 ### Resources
 * [Pest's documentation](https://pestphp.com)
 * [Pest's GitHub organisation](https://github.com/pestphp)
+* [Pest's Twitter](https://twitter.com/pestphp)
 * [Pest Video Course](https://youtube.com/watch?v=gTU-y6HlmzU&list=PLNXrjfSe7qHncCyQYOqJBTsTbYPotMaZ8)
-* []
+
+### Miscellaneous
+* [Alfred Workflow for Pest's docs](https://github.com/AlexMartinFR/alfred-pestphp-docs)
