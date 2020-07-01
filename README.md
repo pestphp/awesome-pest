@@ -14,7 +14,6 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Plugins](#plugins)
 - [IDE](#ide)
 - [Resources](#resources)
-
 ### Plugins
 * [Laravel Plugin](https://github.com/pestphp/pest-plugin-laravel)
 * [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
@@ -28,3 +27,5 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 ### Resources
 * [Pest's documentation](https://pestphp.com)
 * [Pest's GitHub organisation](https://github.com/pestphp)
+* [Pest Video Course](https://youtube.com/watch?v=gTU-y6HlmzU&list=PLNXrjfSe7qHncCyQYOqJBTsTbYPotMaZ8)
+* []
