@@ -19,6 +19,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 * [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
 * [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
 * [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
+* [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
 
 ### IDE
 - [VSCode Plugin](https://github.com/m1guelpf/better-pest)
