@@ -7,7 +7,7 @@
 > A curated list of awesome things related to Pest
 
 ## Contribution
-Have you found something that makes Pest more awesome? Make a PR and add it to the list! Please be sure to read the [contribution guidelines] first.
+Have you found something that makes Pest more awesome? Make a PR and add it to the list! Please be sure to read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Table of Contents
 
