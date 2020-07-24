@@ -18,7 +18,7 @@ Ensure your pull request adheres to the following guidelines:
  - Additions should be added to the bottom of the relevant category.
  - Link to the GitHub repo, not npmjs.com.
  - Keep descriptions short and simple, but descriptive.
- - Don't mention Jest in the description as it's implied.
+ - Don't mention Pest in the description as it's implied.
  - Start the description with a capital and end with a full stop/period.
  - Don't start the description with A or An.
  - Check your spelling and grammar.
