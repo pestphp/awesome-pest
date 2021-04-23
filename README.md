@@ -7,6 +7,7 @@
 > A curated list of awesome things related to Pest
 
 ## Contribution
+
 Have you found something that makes Pest more awesome? Make a PR and add it to the list! Please be sure to read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Table of Contents
@@ -17,22 +18,27 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Miscellaneous](#miscellaneous)
 
 ## Plugins
-* [Laravel Plugin](https://github.com/pestphp/pest-plugin-laravel)
-* [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
-* [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
-* [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
-* [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
+
+- [Laravel Plugin](https://github.com/pestphp/pest-plugin-laravel)
+- [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
+- [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
+- [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
+- [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
 
 ## IDE
+
 - [VSCode Plugin](https://github.com/m1guelpf/better-pest)
 - [PHPStorm / Intellij Plugin](https://github.com/pestphp/pest-intellij)
 
 ## Resources
-* [Pest's documentation](https://pestphp.com)
-* [Pest's GitHub organisation](https://github.com/pestphp)
-* [Pest's Twitter](https://twitter.com/pestphp)
-* [Introducing Pest by @enunomaduro](https://youtu.be/lEvau6CgqPE?t=125)
-* [Pest Video Course from @michaeldyrynda](https://youtube.com/watch?v=gTU-y6HlmzU&list=PLNXrjfSe7qHncCyQYOqJBTsTbYPotMaZ8)
-* [Pest Introduction by @drehimself](https://www.youtube.com/watch?v=vp0jP5rMvR4)
+
+- [Pest's documentation](https://pestphp.com)
+- [Pest's GitHub organisation](https://github.com/pestphp)
+- [Pest's Twitter](https://twitter.com/pestphp)
+- [Introducing Pest by @enunomaduro](https://youtu.be/lEvau6CgqPE?t=125)
+- [Pest Video Course from @michaeldyrynda](https://youtube.com/watch?v=gTU-y6HlmzU&list=PLNXrjfSe7qHncCyQYOqJBTsTbYPotMaZ8)
+- [Pest Introduction by @drehimself](https://www.youtube.com/watch?v=vp0jP5rMvR4)
+
 ## Miscellaneous
-* [Alfred Workflow for Pest's docs](https://github.com/AlexMartinFR/alfred-pestphp-docs)
+
+- [Alfred Workflow for Pest's docs](https://github.com/AlexMartinFR/alfred-pestphp-docs)
