@@ -24,6 +24,8 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
 - [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
 - [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
+- [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
+- [Watch Plugin _(WIP)_](https://github.com/pestphp/pest-plugin-watch)
 
 ## IDE
 
