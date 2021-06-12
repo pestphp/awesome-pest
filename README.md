@@ -20,6 +20,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 ## Plugins
 
 - [Laravel Plugin](https://github.com/pestphp/pest-plugin-laravel)
+- [Laravel Octane Plugin](https://github.com/cerbero90/pest-plugin-laravel-octane)
 - [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
 - [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
 - [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
@@ -39,8 +40,6 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Pest's GitHub organisation](https://github.com/pestphp)
 - [Pest's Twitter](https://twitter.com/pestphp)
 - [Introducing Pest by @enunomaduro](https://youtu.be/lEvau6CgqPE?t=125)
-- [Pest Video Course from @michaeldyrynda](https://youtube.com/watch?v=gTU-y6HlmzU&list=PLNXrjfSe7qHncCyQYOqJBTsTbYPotMaZ8)
-- [Pest Introduction by @drehimself](https://www.youtube.com/watch?v=vp0jP5rMvR4)
 
 ## Miscellaneous
 
