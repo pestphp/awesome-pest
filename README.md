@@ -32,6 +32,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 ## IDE
 
 - [VSCode Plugin](https://github.com/m1guelpf/better-pest)
+- [Snippets for VSCode](https://marketplace.visualstudio.com/items?itemName=dansysanalyst.pest-snippets)
 - [PHPStorm / Intellij Plugin](https://github.com/pestphp/pest-intellij)
 
 ## Resources
