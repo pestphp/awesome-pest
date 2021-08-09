@@ -27,6 +27,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
 - [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
 - [Money Plugin](https://github.com/lukeraymonddowning/pest-plugin-money)
+- [Octane Plugin](https://github.com/cerbero90/pest-plugin-laravel-octane)
 - [Watch Plugin _(WIP)_](https://github.com/pestphp/pest-plugin-watch)
 
 ## IDE
