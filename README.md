@@ -30,6 +30,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Laravel Octane Plugin](https://github.com/cerbero90/pest-plugin-laravel-octane)
 - [Laravel Test Time Plugin](https://github.com/spatie/pest-plugin-test-time)
 - [Laravel Blueprint Plugin](https://github.com/fidum/laravel-blueprint-pestphp-addon)
+- [GraphQL Plugin](https://github.com/miniaturebase/pest-plugin-graphql)
 - [Watch Plugin _(WIP)_](https://github.com/pestphp/pest-plugin-watch)
 
 ## IDE
