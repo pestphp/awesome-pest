@@ -19,18 +19,17 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 
 ## Plugins
 
+- [Carbon Test Time Plugin](https://github.com/spatie/pest-plugin-test-time)
+- [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
+- [GraphQL Plugin](https://github.com/miniaturebase/pest-plugin-graphql)
 - [Laravel Plugin](https://github.com/pestphp/pest-plugin-laravel)
 - [Laravel Octane Plugin](https://github.com/cerbero90/pest-plugin-laravel-octane)
-- [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
-- [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
-- [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
-- [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
-- [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
-- [Money Plugin](https://github.com/lukeraymonddowning/pest-plugin-money)
-- [Laravel Octane Plugin](https://github.com/cerbero90/pest-plugin-laravel-octane)
-- [Carbon Test Time Plugin](https://github.com/spatie/pest-plugin-test-time)
 - [Laravel Blueprint Plugin](https://github.com/fidum/laravel-blueprint-pestphp-addon)
-- [GraphQL Plugin](https://github.com/miniaturebase/pest-plugin-graphql)
+- [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
+- [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
+- [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
+- [Money Plugin](https://github.com/lukeraymonddowning/pest-plugin-money)
+- [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
 - [Watch Plugin _(WIP)_](https://github.com/pestphp/pest-plugin-watch)
 
 ## IDE
