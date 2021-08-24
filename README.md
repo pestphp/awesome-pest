@@ -29,6 +29,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
 - [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
 - [Money Plugin](https://github.com/lukeraymonddowning/pest-plugin-money)
+- [Parallel Plugin](https://github.com/pestphp/pest-plugin-parallel)
 - [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
 - [Watch Plugin _(WIP)_](https://github.com/pestphp/pest-plugin-watch)
 
