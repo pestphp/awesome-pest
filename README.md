@@ -32,7 +32,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Parallel Plugin](https://github.com/pestphp/pest-plugin-parallel)
 - [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
 - [Slim Plugin](https://github.com/nekofar/pest-plugin-slim)
-- * [Given, When, Then Plugin](https://github.com/milroyfraser/pest-plugin-gwt)
+- [Given, When, Then Plugin](https://github.com/milroyfraser/pest-plugin-gwt)
 - [Watch Plugin _(WIP)_](https://github.com/pestphp/pest-plugin-watch)
 
 ## IDE
