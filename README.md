@@ -19,21 +19,30 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 
 ## Plugins
 
+### Official
+
+- [Laravel Plugin](https://pestphp.com/docs/plugins#content-laravel)
+- [Livewire Plugin](https://pestphp.com/docs/plugins#content-livewire)
+- [Faker Plugin](https://pestphp.com/docs/plugins#content-faker)
+- [Watch Plugin](https://pestphp.com/docs/plugins#content-watch)
+
+#### Deprecated
+
+- [Parallel Plugin](https://github.com/pestphp/pest-plugin-parallel) (Pest 1.x)
+
+
+### Unofficial
+
 - [Carbon Test Time Plugin](https://github.com/spatie/pest-plugin-test-time)
-- [Faker Plugin](https://github.com/pestphp/pest-plugin-faker)
 - [GraphQL Plugin](https://github.com/miniaturebase/pest-plugin-graphql)
-- [Laravel Plugin](https://github.com/pestphp/pest-plugin-laravel)
 - [Laravel Octane Plugin](https://github.com/cerbero90/pest-plugin-laravel-octane)
 - [Laravel Blueprint Plugin](https://github.com/fidum/laravel-blueprint-pestphp-addon)
 - [Laravel Snapshot Plugin](https://github.com/Astrotomic/pest-plugin-laravel-snapshots)
 - [Snapshot Plugin](https://github.com/spatie/pest-plugin-snapshots)
-- [Livewire Plugin](https://github.com/pestphp/pest-plugin-livewire)
 - [Money Plugin](https://github.com/lukeraymonddowning/pest-plugin-money)
-- [Parallel Plugin](https://github.com/pestphp/pest-plugin-parallel)
 - [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
 - [Slim Plugin](https://github.com/nekofar/pest-plugin-slim)
 - [Given, When, Then Plugin](https://github.com/milroyfraser/pest-plugin-gwt)
-- [Watch Plugin _(WIP)_](https://github.com/pestphp/pest-plugin-watch)
 
 ## IDE
 
@@ -46,7 +55,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Pest's documentation](https://pestphp.com)
 - [Pest's GitHub organisation](https://github.com/pestphp)
 - [Pest's Twitter](https://twitter.com/pestphp)
-- [Introducing Pest by @enunomaduro](https://youtu.be/lEvau6CgqPE?t=125)
+- [PHPDay 2022: Introducing Pest](https://www.youtube.com/watch?v=MqiGA34ZrQU)
 
 ## Miscellaneous
 
