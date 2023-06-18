@@ -43,6 +43,7 @@ Have you found something that makes Pest more awesome? Make a PR and add it to t
 - [Shorthands Plugin](https://github.com/thled/pest-plugin-shorthands)
 - [Slim Plugin](https://github.com/nekofar/pest-plugin-slim)
 - [Given, When, Then Plugin](https://github.com/milroyfraser/pest-plugin-gwt)
+- [Hyperf Plugin](https://github.com/friendsofhyperf/pest-plugin-hyperf)
 
 ## IDE
 
